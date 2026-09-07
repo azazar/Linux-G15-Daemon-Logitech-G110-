@@ -1,6 +1,10 @@
 # Linux G15 Daemon [Logitech G110 and others keyboards]
 G15 Daemon + G15 Macro + Led Control for G110 and other Logitech keyboard on Linux 
 
+This project is a fork of [Leproide/Linux-G15-Daemon-Logitech-G110-](https://github.com/Leproide/Linux-G15-Daemon-Logitech-G110-).
+
+The fork's repository is [azazar/Linux-G15-Daemon-Logitech-G110-](https://github.com/azazar/Linux-G15-Daemon-Logitech-G110-).
+
 #### Video Tutorial:
 
 * ITALIAN https://www.youtube.com/watch?v=AnyfWFa_Ku0
@@ -35,4 +39,3 @@ In case you have this error "libg15render-1.2 not found" see this https://github
 * (in case of errors: yum groupinstall "X Software Development")
 * make
 * sudo make install
-
